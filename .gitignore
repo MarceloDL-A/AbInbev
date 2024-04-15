@@ -1,0 +1,12 @@
+# Ignorar todos os arquivos IPython Notebooks
+correlations.ipynb
+logs.log
+main copy.ipynb
+Notas.md
+prior copy.ipynb
+prior.ipynb
+
+# Ignorar a pasta do ambiente virtual
+abinbev_env/
+data/
+docs/
